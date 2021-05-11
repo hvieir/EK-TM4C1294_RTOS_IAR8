@@ -24,5 +24,8 @@
     <project>
         <path>$WS_DIR$\Projects\temporizador\temporizador.ewp</path>
     </project>
+    <project>
+        <path>$WS_DIR$\Projects\UART_inst\UART_inst.ewp</path>
+    </project>
     <batchBuild />
 </workspace>
